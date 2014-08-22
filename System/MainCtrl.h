@@ -1,0 +1,2 @@
+
+bool machine_init();

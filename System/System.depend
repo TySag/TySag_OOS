@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1408677429 source:e:\code\gem5\zzdemo\system\base.cpp
+	"base.h"
+
+1408702788 e:\code\gem5\zzdemo\system\base.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1408701581 source:e:\code\gem5\zzdemo\system\cpu.cpp
+	"lib.h"
+	"cpu.h"
+
+1408675918 e:\code\gem5\zzdemo\system\lib.h
+	"base.h"
+
+1408701490 e:\code\gem5\zzdemo\system\cpu.h
+
+1408701581 source:e:\code\gem5\zzdemo\system\fs.cpp
+	"lib.h"
+	"fs.h"
+
+1408701490 e:\code\gem5\zzdemo\system\fs.h
+
+1408703265 source:e:\code\gem5\zzdemo\system\input.cpp
+	"input.h"
+	"output.h"
+
+1408697295 e:\code\gem5\zzdemo\system\input.h
+	"lib.h"
+
+1408697151 e:\code\gem5\zzdemo\system\output.h
+	"lib.h"
+
+1408675850 source:e:\code\gem5\zzdemo\system\lib.cpp
+	"lib.h"
+
+1408703189 source:e:\code\gem5\zzdemo\system\main.cpp
+	"lib.h"
+	"input.h"
+	"MainCtrl.h"
+	"fs.h"
+	"mm.h"
+	"cpu.h"
+	"net.h"
+
+1408701119 e:\code\gem5\zzdemo\system\mainctrl.h
+
+1408701429 e:\code\gem5\zzdemo\system\mm.h
+
+1408701490 e:\code\gem5\zzdemo\system\net.h
+
+1408702806 source:e:\code\gem5\zzdemo\system\mm.cpp
+	"lib.h"
+	"mm.h"
+
+1408702825 source:e:\code\gem5\zzdemo\system\net.cpp
+	"lib.h"
+	"net.h"
+
+1408697250 source:e:\code\gem5\zzdemo\system\output.cpp
+	"output.h"
+
+1408677429 source:e:\code\opensource\tysag_oos\system\base.cpp
+	"base.h"
+
+1408720722 e:\code\opensource\tysag_oos\system\base.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1408701581 source:e:\code\opensource\tysag_oos\system\cpu.cpp
+	"lib.h"
+	"cpu.h"
+
+1408675918 e:\code\opensource\tysag_oos\system\lib.h
+	"base.h"
+
+1408701490 e:\code\opensource\tysag_oos\system\cpu.h
+
+1408701581 source:e:\code\opensource\tysag_oos\system\fs.cpp
+	"lib.h"
+	"fs.h"
+
+1408701490 e:\code\opensource\tysag_oos\system\fs.h
+
+1408675850 source:e:\code\opensource\tysag_oos\system\lib.cpp
+	"lib.h"
+
+1408702825 source:e:\code\opensource\tysag_oos\system\net.cpp
+	"lib.h"
+	"net.h"
+
+1408701490 e:\code\opensource\tysag_oos\system\net.h
+
+1408697250 source:e:\code\opensource\tysag_oos\system\output.cpp
+	"output.h"
+
+1408697151 e:\code\opensource\tysag_oos\system\output.h
+	"lib.h"
+
+1408720506 source:e:\code\opensource\tysag_oos\system\input.cpp
+	"input.h"
+	"output.h"
+
+1408697295 e:\code\opensource\tysag_oos\system\input.h
+	"lib.h"
+
+1408704794 source:e:\code\opensource\tysag_oos\system\mm.cpp
+	"lib.h"
+	"mm.h"
+
+1408720610 e:\code\opensource\tysag_oos\system\mm.h
+
